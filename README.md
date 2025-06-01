@@ -32,7 +32,7 @@ https://www.docker.com/products/docker-desktop/
 
 ## Pembuat
 
-| WerCooking|
+| WreCooking|
 |---------------------------|
 | Muhammad Ghama Al Fajri
 | Taufik Hidayat NST
